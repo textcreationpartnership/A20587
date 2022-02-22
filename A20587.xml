@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane Discourse tuiching the estait present in October anno Domini 1571</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1572</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20587</idno>
+            <idno type="STC">STC 6990.5</idno>
+            <idno type="STC">ESTC S105381</idno>
+            <idno type="EEBO-CITATION">22296333</idno>
+            <idno type="OCLC">ocm 22296333</idno>
+            <idno type="VID">25347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25347)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 378:14 or 1751:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane Discourse tuiching the estait present in October anno Domini 1571</title>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Be Robert Lekpreuik,</publisher>
+                  <pubPlace>Imprentit at Sanctandrois :</pubPlace>
+                  <date>M. D. LXXII [1572]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁸.</note>
+                  <note>A dialogue between Thomas and George.</note>
+                  <note>Imperfect: cropped and torn, with slight loss of print.</note>
+                  <note>Reproductions of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  James VI, 1567-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25347:1"/>
+            <pb facs="tcp:25347:1" rendition="simple:additions"/>
+            <p>ANE DISCOVRSE TVICHING THE ESTAIT PRESENT IN OCTOBER Anno Domini. 1571.</p>
+            <figure>
+               <figDesc>diamond-shaped celtic knot</figDesc>
+            </figure>
+            <p>IMPRENTIT AT SANCTANDROIS BE ROBERT Lekpreuik. Anno Do. M. D. LXXII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:25347:2"/>
+            <pb facs="tcp:25347:2"/>
+            <head>ANE DISCOVRSE TVICHING THE ESTATE preſent. In October. Anno. 1571.</head>
+            <p>
+               <seg rend="decorInit">C</seg>ALLING to mynde (gen<g ref="char:EOLhyphen"/>till Reidar) the miſerie inte<g ref="char:EOLhyphen"/>ſtine quhairof our natiue cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>trie ſuſtenis the plaigue this day, and the wonderfull di<g ref="char:EOLhyphen"/>uerſitie of opiniou<g ref="char:cmbAbbrStroke">̄</g>is, not on<g ref="char:EOLhyphen"/>lie how the ſame is kendillit and foſterit, bot alſo quhat men according to the tyme thinkis thay aucht to do: I am compellit, my conſcience pricking me thairto, to mak ane lytill diſcourſe tuiching the ſame. For thair be ſum quhome onlie ignorance in ſimplicitie withhaldis fra doing thair dewteis, for quhais confort this my trauell is ſpeciallie vnderta<g ref="char:EOLhyphen"/>kin: febil cowardice drawis vtheris away, notwith<g ref="char:EOLhyphen"/>ſtanding thay ſe als cleir as the Sone at none day quhat is craifit of thair dewteis: malicious obſtinat pryde &amp; parciall particulariteis makis vtheris baith
+<pb facs="tcp:25347:3"/> fecht aganis thair knawlege and conſcience. And ſen my trauell is nouther for the proude contemp<g ref="char:EOLhyphen"/>naris authoris of this miſerie, nor for the coward and febill hartit lyby, bot for the ſempill ignorant, I haue proponit this diſcourſe be way of Dialogue reſſoning the ground according to ye trueth, pray<g ref="char:EOLhyphen"/>ing the (gentill Reidar) to tak it in gude worth: For I haif not interpryſit it as abileſt to diſcharge it, bot for that I ſa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greit neceſsitie craifing, and na man put to his helping hand. And albeit, that nouther the dignitie nor reuerence of the Author, nor e<g ref="char:EOLhyphen"/>loquence nor diſpoſitioun of fair language nor curioſitie of mater, quhairin mony delyte, ſall mak this Treatie famous: ȝit reuerence it for the verray treuthis ſaik, and ȝow ſem<g ref="char:EOLhyphen"/>pill ſaulis conſidder how far curious and heich ſpreitis abuſis ȝow. Fair weill.</p>
+         </div>
+         <div type="discourse">
+            <pb facs="tcp:25347:3"/>
+            <head>THOMAS AND GEORGE.</head>
+            <sp>
+               <speaker>¶THOMAS.</speaker>
+               <p>GOD blis ȝow my gude freind George.</p>
+            </sp>
+            <sp>
+               <speaker>¶GEORGE.</speaker>
+               <p>And God ſaue ȝow Thomas gif I haue na farther Iniurie of ȝow.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Quhat mene ȝe be that Iniurie, quhen was I accuſtomit to Iniurie ȝow?</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ȝea, not onlie haue I bene Iniuryit be thame I luikit als lytill of, bot rubbit, ſpuilȝeit, weill bea<g ref="char:EOLhyphen"/>tin, and neir ſlane.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Mercyfull God, quhat heir I, I wald haue bele<g ref="char:EOLhyphen"/>uit yat the reuerence of ȝour gray hairis &amp; excel<g ref="char:EOLhyphen"/>lencie of leirning ſuld haue bene protectiou<g ref="char:cmbAbbrStroke">̄</g> ſuffi<g ref="char:EOLhyphen"/>cent for ȝow, ſpecially of yame of ȝour acque<g ref="char:cmbAbbrStroke">̄</g>ta<g ref="char:cmbAbbrStroke">̄</g>ce</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Bot experience hes teichit me the contrair, for profeſsing my ſelf ſeruand to God and the King, was ſufficient cauſe, ſay thay, this to demane me, ſwa that the loſe of my geir, ȝea, my awin wou<g ref="char:cmbAbbrStroke">̄</g>dis greuis me not ſa mekle as that ſic perſounis quha fumtyme wer cheif pilleris protectouris, ȝea, the verray ſelf doaris and ſetteris vp of the King, and mony tymes ſenſyne hes had yair handis armit in ſindrie conflictis for his defence, and protectioun of his Authoritie and Royall eſtate, ſuld now mak
+<pb facs="tcp:25347:4"/> it cauſe ſufficient, not onlie of my reif and Iniurie, bot of the reiſing, hirrying, ſtryking, ſlaying, and dryſing to maiſt vyle beggarrie of mony thouſan<g ref="char:EOLhyphen"/>dis in the bowellis of this miſerabill countrie.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Deir freind George, this is the rewaird of ſin and impietie, quhairwith this countrie ouerflowis.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I man outher gra<g ref="char:cmbAbbrStroke">̄</g>t this cauſe to be ſin, or impute vnrichteouſnes vnto God, ſeing that plaigues ne<g ref="char:EOLhyphen"/>uer cu<g ref="char:cmbAbbrStroke">̄</g>mis bot as Meſsingeris of God for impietie committit, &amp; the mair narrowlie that I luik quhat this ſin ſuld be, or quhairfra it ſuld proceid, fra ye hieſt degre of Nobilitie to the vyle eſtate of the pure beggar, thair ſall nane be found, being dili<g ref="char:EOLhyphen"/>gentlie tryit, bot in him onlie ſalbe found mater of greitar plaigues nor we ſuſtene this day gif we wer delt with accordinglie, how mekill mair quhe<g ref="char:cmbAbbrStroke">̄</g> euerie mannis impietie is intermaſsit togidder. God grant then that euerie man may rype out the plaigues in him ſelf, and ſwa cum to amendement euerie man of ane.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Deir freind George ȝe haue gadderit weill ſum<g ref="char:EOLhyphen"/>marlie ſin to be the occaſioun of plaigues, and the tryell of euerie man in him ſelf, the meanis quhair by God is appeaſit and plaigues ceiſsis: Bot I pray ȝow luik ȝe to ſe at ony tyme that euerie man ſall ſa do, or hes exempillis teichit ȝow ony ſic thing heirtofoir.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>All I grant can not, for the rebellious children
+<pb facs="tcp:25347:4"/> of Satha<g ref="char:cmbAbbrStroke">̄</g> can neuer call thame ſelfis trewlie to try<g ref="char:EOLhyphen"/>all, it is ſufficient gif the godlie vnder the plaigue lift vp thair hartis and ſchaik of thair auld man.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Bot ȝe bring me now to ane heid, the reſolutiou<g ref="char:cmbAbbrStroke">̄</g> quhairof I feir ȝe and I ſall not weill aggre vpone eaſilie, foraſmekle as ȝour former ſpeikiug hes vt<g ref="char:EOLhyphen"/>terit ȝow to be ane profeſſour of the King and his AUthoritie, quhairby ȝe wald infer that ſic as ar troublit in defence of his actioun ȝe acknawledge to be the children of God troublit for richteouſ<g ref="char:EOLhyphen"/>nes and vnder his preſent roddis.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ȝes trewly, for I aſchame not of my Maiſter vnder God.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>On the tother ſyde me think yat thay quha ſu<g ref="char:EOLhyphen"/>ſtenis ye part of our Souerane Lady in defence of hir Maieſteis richt tytill &amp; libertie to be the chil<g ref="char:EOLhyphen"/>dren of God troublit for richteouſnes be ane pak of treſſonabill ſeditious conſpiratouris.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Gif ȝe delite to terme me<g ref="char:cmbAbbrStroke">̄</g> be odious tytillis mair than familiarly to confer vpon the treuth, think not bot I culd gif vtheris thair Epithethes proper aneuch lytill to ȝour contentment and les to yair honouris.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Let our conference then be with modeſtie, par<g ref="char:EOLhyphen"/>tialitie and affectiou<g ref="char:cmbAbbrStroke">̄</g> baith ſet aſyde, &amp; let vs ſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ik in foro conſcientiae.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I craif nathing ellis.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Quat law permittis, quhat conſcience allowis,
+<pb facs="tcp:25347:5"/> quhat ſubiectis hart can ſuffer thair natiue Princes oppreſt, caſsin in vyle preſoun, ſpuilȝeit of hir Crowne, honouris and dignitie, &amp; dreuin for ſaif<g ref="char:EOLhyphen"/>tie of hir lyfe to ſeik protectioun of the cruell en<g ref="char:EOLhyphen"/>emeis of hir Maieſteis ſelf and Predeceſſouris.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>And ȝit all this is not ſufficient puniſchment for hir impietie.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Quhat? will ȝe puniſche ȝour Princes, ſall the fute comptrol the heid or command it? teiche me that Law.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>As ſubiectis violating thair faith and detfull o<g ref="char:EOLhyphen"/>bedience to thair Superiouris repyning or rebel<g ref="char:EOLhyphen"/>ling aganis thair lauchfull Lawis &amp; inſtitutiounis, may iuſtlie be reknit treſſonabill tratouris to god, thair King, and commoun welth. Euin ſa gif thay permit ane laſciuious and inſolent Prince without ony comptrolling to do per fas &amp; nefas, quhat he pleiſsis, rekning all thingis lauchfull vnto him quhat his corruptit or vnbrydillit luſt liſtis to at<g ref="char:EOLhyphen"/>tempt, can be na vtherwyſe reknit bot tratouris to God, thair King, and commoun welth. For quhat wer it ellis, to think that Princes and Gouernou<g ref="char:EOLhyphen"/>ris of commoun welthis ſuld not be retenit vnder Diſcipline concerning the ſtate of the countrie, nor that quhilk Papis hes aſcriuit vnto thame, to wit, that it is not lauchfull for ony mortall man, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lthocht he thraw ane hundreth thouſand ſaules <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eidlingis in the hell atanis, it wer not lauchfull, I
+<pb facs="tcp:25347:5"/> ſay, anis to inquyre quhy he ſa did, or to call in queſtioun quhidder he micht ſa do or not, we mon farther vnderſtand that the violatioun of the lawis of God ar not only craifit to be puniſchit in priuate me<g ref="char:cmbAbbrStroke">̄</g>, bot euin in Papis, Empriouris, Kingis, Quenis, and all eſtatis of Princeſsis, forſamekle as in the ge<g ref="char:EOLhyphen"/>uing of the Law na libertie was geuin to ſic tranſ<g ref="char:EOLhyphen"/>greſsioun nouther ony exe<g ref="char:cmbAbbrStroke">̄</g>ptioun of thame quhair<g ref="char:EOLhyphen"/>by thay may be priuilegit. Attour the floriſching &amp; beſt co<g ref="char:cmbAbbrStroke">̄</g>moun welthis yat our Nobill predeceſſouris hes left mentionat in famous Cronicklis, teichis not onlie how inſolent Kingis hes bene comptrollit of thair Gouernament, bot ſum be mature deliberati<g ref="char:EOLhyphen"/>oun of the counſall of Nobilitie co<g ref="char:cmbAbbrStroke">̄</g>dempnit to per<g ref="char:EOLhyphen"/>petuall preſoun and yair deceiſsit. Vtheris degradit of thair digniteis. 2. Cro. Cap. 11. Dardanus King for his Murther and Tyrannie apprehendit be his Nobilitie and ſlane: and for the mair terrour of all Princes to gouerne be tyrannie, his body caſsin in his awin vyle cloiſſet. 5. Cro. Cap. 6. Conarus lyk<g ref="char:EOLhyphen"/>wiſe King for his miſgouernance degradit be his Nobilitie, condempnit to preſoun quhair he deit. Vortiger king of Ingla<g ref="char:cmbAbbrStroke">̄</g>d ſpuilȝeit of his eſtait Roy<g ref="char:EOLhyphen"/>all be his Nobilitie for his miſgouernance, and his Sone Vortimer Crownit and ſet vp in his Crowne. 4. Cro. Cap. 7: 6. Cro. Cap. 19. Was not King Far<g ref="char:EOLhyphen"/>quhair chargit be ane Herauld of Armes to co<g ref="char:cmbAbbrStroke">̄</g>peir befoir his Nobilitie to be comptrollit of his miſgo<g ref="char:EOLhyphen"/>uernance,
+<pb facs="tcp:25347:6"/> and for his diſobedience apprehendit be his Nobilitie, ane vther placit in his gouerna<g ref="char:EOLhyphen"/>ment, him ſelf impreſonit to his laſt braith. Gang reid the 11. Chap. of the ſecund buik of the Cro. and the 15. of the ſame, the 15. of the thrid buik, &amp; thow ſall ſe quhat gude exempil of Nobilitie, ver<g ref="char:EOLhyphen"/>teous gouernance, and cair of thair commou<g ref="char:cmbAbbrStroke">̄</g> weill our Nobill Predeceſſouris hes left vs concerning the retening of inſolent laſciuious and tyrannous Princes in thair vnlefull dewteis doing. Bot was this ſa mekle as ane queſtioun within thir 5. ȝeiris to call ane Prince to compt, ȝea, to puniſche to ye deith for impietie, remember ȝow. Participatis not oft tymes innocent ſubiectis of the plaigues that God pouris furth for the wickitnes of Kingis and Princeſsis? Cryit not Dauid (his pepill being cha<g ref="char:EOLhyphen"/>ſtoſit for his offenſis) it is I ô Lord, it is I, quhat hes thir Innocent ſcheip done? How far then ap<g ref="char:EOLhyphen"/>pertenis it to the weilfair of ſubiectis that thair Princes leif godlie?</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Quhen I remember the vniuerſall corruptioun of our age, and conſidderis lawis and Magiſtratis that aucht to bring rebellious and inſolent ſubie<g ref="char:EOLhyphen"/>ctis to ordour, and the<g ref="char:cmbAbbrStroke">̄</g> luikis how be vnbrydillit libertie Princes ſelfis rin in all kynd of miſordour, thinking nathing thay do ſuld be mair callit to compt nor thay wer verray Goddis. My conſci<g ref="char:EOLhyphen"/>ence beiris me record, that thair Nobilitie aucht
+<pb facs="tcp:25347:6"/> to put ordour to thair inſolence, and that baith ye lawis of God and nature allowis the ſame. Bot al<g ref="char:EOLhyphen"/>beit I ſeme to gang with ȝow thus far generallie, ȝit find I not thir circumſtances correſpondent to the depoſitioun of our Maiſtres.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Quhat kynde of Impietie I pray ȝow hes ſcho co<g ref="char:cmbAbbrStroke">̄</g>mittit? Hes ſcho not corruptit the Realme with ſuperfluitie in cleithing, ryatous and exceſsiue ban ketting, filthie huredome, pollutit the land agane with Idolatrie, quhilk God of his mercy had anis cle<g ref="char:cmbAbbrStroke">̄</g>geit, ſic murther as na vyle barbariane or cruell Turk culd do mair vnnaturallie, to put handis in hir awin Innocent huſband, and bring in bed the cheif executour of his murther. Now I pray ȝow wey quhat cauſsis bene heir. How ſtand ȝe ſtupi<g ref="char:EOLhyphen"/>fact? Speik I pray ȝow and remember ȝour former promiſis.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I can not deny in deid, bot me think hir part of not be exaggerat ſa heichlie for mony cauſis, and I pray ȝow Iudge with me indifferentlie, firſt ȝe knaw ſcho was bot ane barne in ȝeiris nuriſchit in all kynde of welthynes, and in quhat gude eſtima<g ref="char:EOLhyphen"/>tiou<g ref="char:cmbAbbrStroke">̄</g> ſcho was in at hir hame cu<g ref="char:cmbAbbrStroke">̄</g>ming ȝe knaw, had ſene lytill or nathing in gouernament of commou<g ref="char:cmbAbbrStroke">̄</g> welthis, and I trow of hir awin nature tractiue a<g ref="char:EOLhyphen"/>neuch gif ſcho had had counſallouris cairfuller of hir honour and weilfair of ye Realme nor of beil<g ref="char:EOLhyphen"/>ding houſis to thame ſelfis. Swa that I rekkin not
+<pb facs="tcp:25347:7"/> the leiſt part of this hir miſgouerna<g ref="char:cmbAbbrStroke">̄</g>ce to haue cu<g ref="char:cmbAbbrStroke">̄</g>it be thair flattrie and diſsimulatioun.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Not that I will extenuat ony part of hir former faultis, ȝit am I with ȝow in that, yat gif ſum of hir ſpeciall counſallouris had bene cairfull of hir eſti<g ref="char:EOLhyphen"/>matioun, and neuer ſene in hir ony thing deroga<g ref="char:EOLhyphen"/>tiue to hir honour or eſtate, bot ſtraicht ſaid Ma<g ref="char:EOLhyphen"/>dame yis is not the way to eſtabliſche ȝour graces Kingdome in the Lord, and as ane Father had in<g ref="char:EOLhyphen"/>ſtructit hir in hir dewtie, without beiring flattrie or diſsimulatioun, I trow trewlie hir caus this day had not bene ſa lamentabill, and I dout not bot God this day is craifing that flattrie at ſum of yair handis beſydes mony vtheris thair vnhoneſt pra<g ref="char:EOLhyphen"/>ctiſis.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Bot gude freind George hir Authoritie is takin fra hir be hir awin dimiſsioun, being thairto com<g ref="char:EOLhyphen"/>pellit for feir of hir lyfe, quhilk ſcho renuncit and annullit ſenſyne, and ane gude part of hir Nobili<g ref="char:EOLhyphen"/>tie hes fou<g ref="char:cmbAbbrStroke">̄</g>d yat ſcho was ane ſillie innocent thing and cryis peccaui. For putting ha<g ref="char:cmbAbbrStroke">̄</g>dis in hir, or cal<g ref="char:EOLhyphen"/>ling hir to accompt of thay former allegeances, &amp; hes eſtabliſchit hir lieutennentis for erectioun a<g ref="char:EOLhyphen"/>gane of hir Authoritie, and confirmit the ſame in Parliament, the Perſoun of Fliſk (in ane helter) &amp; the ſecretar ſayis it was bot for ane feche yat thay apprehendit hir and Crownit hir Sone quhill the Murtheraris of hir huſband wer puniſchit. And
+<pb facs="tcp:25347:7"/> thay menit nathing les the<g ref="char:cmbAbbrStroke">̄</g> ony derogatiou<g ref="char:cmbAbbrStroke">̄</g> to hir Authoritie, for ſcho was als Innocent of hir huſ<g ref="char:EOLhyphen"/>bandis Murther as ony of thame twa was, lyke as thair Apologie ſet furth in prent in hir purgatiou<g ref="char:cmbAbbrStroke">̄</g> of that cryme beiris.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ȝe gif me ſa mony heidis to anſwer to that I wat not quhair to begin. Nottheles I ſall keip that or<g ref="char:EOLhyphen"/>dour in anſwering that ȝe do in proponing. It is trew the King bruikis his Authoritie be dimiſsiou<g ref="char:cmbAbbrStroke">̄</g> of his Mother, ane inuentioun of thay quent cur<g ref="char:EOLhyphen"/>teouris that lykis neuer to feſsin ony thing ſa faſt bot that thay may louſe it agane as thay ſe it may ſerue thair turne, for thay ſettill Courtis at thair appetites quhen it may import thair co<g ref="char:cmbAbbrStroke">̄</g>moditie &amp; turnis agane vpſyde doun quhen thay foirſe ony ſtorme tending to thair hurt, ȝit is all thair altera<g ref="char:EOLhyphen"/>tiounis nathing ellis bot ſeiking and eſtabliſching of the co<g ref="char:cmbAbbrStroke">̄</g>moun welth, as the man ſocht his drow<g ref="char:EOLhyphen"/>nit wyfe vp the watter, and nathing can be weill done bot that thay do maiſt wickitly thame ſelfis: Bot I trow Robert Maluile aſcriuis to him for gude ſeruice, that he perſuadit hir to dimit it, and ſaid it wald be the occaſioun thay wald tak the les regaird of hir keiping, and ſwa be ſum meanis now or than ſcho micht eſchaip, quhilk anis doung in hir heid ſcho tuik neuer kyndlie reſt quhill it was accompliſchit. As to hir reuocatioun, I aſk of ȝow gif ony man had ſlane ȝour Father and thairfoir
+<pb facs="tcp:25347:8"/> adiudgit to the deith, had heritabillie infeft ȝow in ſum of his landis, and be that ſatiſfactioun had Redemit his craig fra the aix, wald ȝe thinke it ane lauchfull exceptioun to recleame thay lan<g ref="char:EOLhyphen"/>dis, and ſay I did it for feir of my lyfe, attoure this alledgit reuocatioun hes not the ſolempniteis dew thairto, to wit, hir awin fre libertie, and ap<g ref="char:EOLhyphen"/>probatioun of hir Nobilitie in Parliament as the Kingis Coronatioun had.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I haue alledgit confirmatiou<g ref="char:cmbAbbrStroke">̄</g> in Parliament afoir.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>That Parliament. Is ye Duke, Huntly, &amp; Hwme all the Nobilitie of Scotland? quhair thair is thret<g ref="char:EOLhyphen"/>tie Erlis and Lordis beſyde the haill Barrounis &amp; ſa mony Burghis as ar fre of thair tyrannie that a<g ref="char:EOLhyphen"/>vow is continuallie his Authoritie. Quhair was thair Co<g ref="char:cmbAbbrStroke">̄</g>miſsioun quhen Robert Scot aſkit for it?</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>He was the Deuillis wyſe to put queſtioun or think thair wantit ony formalitie in ye thingis yai did, and thair was mony vtheris at that Parliame<g ref="char:cmbAbbrStroke">̄</g>t nor ȝe reknit, Baukcleuch, Farnyhirſt, Colding<g ref="char:EOLhyphen"/>hame the Bletour of Dunkeld, and ſindrie vtheris be thair Commiſsiounis.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Sic lippis ſic Latous, ſic a Parliament, ſic Lordis of Artickles, it micht weill haue bene ane Guiſe agane Ȝule. Bot trow ȝe that ane Law and a leill Sy<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e for mantening of thift and oppreſsioun, ſuld ſet Farnyhirſt and Baukcleuch better, nor to be thronit vp, to wit, in Parliament. And amangis all
+<pb facs="tcp:25347:8"/> vther thingis thair is nathing makis thame mair o<g ref="char:EOLhyphen"/>dious and deteſtabill to all men, and perſuadis me<g ref="char:cmbAbbrStroke">̄</g> les of thair honeſt dealing and cair of yair co<g ref="char:cmbAbbrStroke">̄</g>mou<g ref="char:cmbAbbrStroke">̄</g> weill, than that thay ſe the onlie meanis quhairby co<g ref="char:cmbAbbrStroke">̄</g>moun welthis ar brocht to vtter euerſioun, yair ſpeciall gaird and protectioun. Quhat cair is thair for the co<g ref="char:cmbAbbrStroke">̄</g>moun wealth quhair ſa ſchamefullie Iu<g ref="char:EOLhyphen"/>ſtice is defait to ſet thame vp to Iudge be ane Law in Parliament, worthyer be Parliament to be ad<g ref="char:EOLhyphen"/>iudgeit to ane thouſand deithis. Sall this mocking of luſtice with counterfutit Co<g ref="char:cmbAbbrStroke">̄</g>miſsiounis maid in yair awin Chalmeris voide of all maner of ordour &amp; formalitie, not be plaiguit of God? It ſall dout<g ref="char:EOLhyphen"/>les: Quhat cair is thair of the commoun wealth quhair the Miniſteris of Chriſtis Eua<g ref="char:cmbAbbrStroke">̄</g>gell ar chaiſ<g ref="char:EOLhyphen"/>ſit away from thair flockis, the hous of the Lord appointit for prayer maid ane den of theifis, ho<g ref="char:EOLhyphen"/>neſt men drawin fra thair houſis, thair gudis vio<g ref="char:EOLhyphen"/>lently takin fra thame, the principall Cietie of Scotland quhair floriſchit peice, policie, and Iu<g ref="char:EOLhyphen"/>ſtice, thus miſerabillie defacit and maid ane pecia<g ref="char:EOLhyphen"/>bill reſſet to co<g ref="char:cmbAbbrStroke">̄</g>moun theifis, murtheraris, Ydill va<g ref="char:EOLhyphen"/>gabundis, exco<g ref="char:cmbAbbrStroke">̄</g>municatis, and infinite ſic vtheris as for feir of Iuſtice durſt neuer be ſene publictlie.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Now George ȝour Choler briſtis furth mair vn<g ref="char:EOLhyphen"/>reuerentlie nor can be weill allowit, for thair be ſum honorabill men that miſlykis fra thair hartis that ony ſic thing ſuld happin, bot all thingis can
+<pb facs="tcp:25347:9"/> not be keipit in frame as the preſent ſtate of thin<g ref="char:EOLhyphen"/>gis ar.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Bot I pray ȝow hes not the ſelf ſame honorabill me<g ref="char:cmbAbbrStroke">̄</g> brocht and preſentlie haldis all thingis out of frame, and ȝit mo<g ref="char:cmbAbbrStroke">̄</g> thay be decorit with famous &amp; honorabill tytillis as Princes of heich honour and vertew, examinat I pray ȝow how thair practiſis and Interpryſis aggreis with thair wordis, and let thame haue tytillis anſwering thairto. Bot tell me of thay honorabill men (as ȝe call thame) that ſa bewaillis this preſent troubill.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Knaw ȝe not?</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>No trewly.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I appeill ȝour conſcience gif ȝe trow that the Capitane of the Caſtell of his awin nature outher delytis in blude, oppreſsioun, or troublis in the commoun wealth.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ȝe haue ſchiftit out the euill beſt amang yame. Bot how can he not be thocht the verray ground the rute and foſterar of all, ſeing he dois all thin<g ref="char:EOLhyphen"/>gis, and without him is done nathing that is done, for quhat euer the Secretar Inuentis, ſtraicht way cauſis he to be put in executioun. Quhat troubill had bene in Scotland throw calling ye Kingis au<g ref="char:EOLhyphen"/>thoritie in dout, gif he had remanit conſtant and keipit that hous to the Kingis obedience with ye Wardaris that was in it, according to his mynde that credite him? Is it not him ſelf with the facti<g ref="char:EOLhyphen"/>oun
+<pb facs="tcp:25347:9"/> of the wardaris quhome he louſit at his awin hand hes browin all this miſcheif, nouther Ham<g ref="char:EOLhyphen"/>miltoun, Gordoun, Scot, nor Ker durſt haue reſt the hen chikkin in Edinburgh had he bot ſtand indifferent, and not plane enemie to the honeſt men of that Towne, ȝea, I wald not haue geuin ane caill caſtok for all the enemeis the King had in Scotland had he remanit honeſt in keiping of that hous.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Althocht I dout not bot ȝe mene honeſtly a<g ref="char:EOLhyphen"/>neuch for ȝour ſelf, ȝit ȝe knaw not the merite of cauſis for thay ſchuik not of the Kingis obedie<g ref="char:cmbAbbrStroke">̄</g>ce bot mouit of conſcience that thay had done euill in depoſing his Mother, and he louſit not thay wardaris without ane warrand.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>A warrand I grant of the Kingis coniurit ene<g ref="char:EOLhyphen"/>meis and ſic as had na power. Quha may releif of waird ane man committit to waird be ane Prince culpabill ſpecially of treſſou<g ref="char:cmbAbbrStroke">̄</g>? Nane bot ane King.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Ȝe haue interruptit my purpois, I knaw perfitly quhe<g ref="char:cmbAbbrStroke">̄</g> he louſit thay wardaris the Secreter and he offerit to gar all Scotland acknawlege the Kingis Authoritie gif the Quene of Ingland wald mak thame ſure of our Quene not to be delyuerit to cu<g ref="char:cmbAbbrStroke">̄</g> hame, quhairby thay ſuld not incur hir indig<g ref="char:EOLhyphen"/>natioun ony farther, and thairfoir men lyke men foirſeing that danger thay thocht it meteſt (ſen na vther apperance thair was bot ſcho ſuld cum
+<pb facs="tcp:25347:10"/> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame now or then) to tak hir beneuolence, &amp; be the hamebringaris of hir thame ſelfis, and be that benefite extinguis all thair former offenſis, ȝea, yai had ſa far dreſt afoirhand, that gif Scotland wald diuorce hir and the Erle Both well and be the pro<g ref="char:EOLunhyphen"/>cuiraris of the furthſetting of hir Mariage with ye Duke of Norffolk, ſcho ſuld approue the Kingis Authoritie hir ſelf agane, and interpone the King of France ſouertie neuer to cum in the contrair, nouther euer to cum in Scotland bot remane with hir huſband at libertie in Ingland or France.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Quhat wyſe men in the Lord culd of conſcie<g ref="char:cmbAbbrStroke">̄</g>ce bring hir hame agane to be promouit to dignitie, that is ſa ſchamefully dilatit and diſcouerit of ſa horribill crymes, bot ſuld not rather procure hir to be puniſchit according to hir demeritis, yat the land may be clengeit of blude. Bot I haue thy an<g ref="char:EOLhyphen"/>ſwer in my ſelf, that is not the purpois of thair fetche, bot quha euer compaſsis thair fetches and beginnis not with God as thay haue done in this, God ſall mak thame to acknawlege thame, will thay nill thay or it be accompliſchit, and happy is that interpryſe that hes ſure fundament approuit of God, for quhatſumeuer troubill is at the be<g ref="char:EOLhyphen"/>ginning or myddis it bringis comfort in the end. Bot how can thay twa aggre, conſcience mouit thame to ſet hir vp agane, becaus thay haue done wickitly in depoſing of hir, and that vpon certane
+<pb facs="tcp:25347:10"/> conditiounis craifit of the Quene of Ingland, thay wald haue perſeuerit in thair wickit handilling of hir as thay call it, and neuer maid mai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſcience of it nor it had bene ane horribill act. The warld may ſe it is not Conſcience, it is not hir honoure nor erectioun ȝe ſeik, bot as it may mak for ȝour grandeuir, and I will ſay that thay had done as ho<g ref="char:EOLhyphen"/>neſtlie &amp; be ye apperance of ſucces of thingis mair to thair profite and quyetnes of the cou<g ref="char:cmbAbbrStroke">̄</g>trie, gif yai had rune that courſe of the Kingis obedience as thay begouth, and brocht all Scotland to do the lyke as thay braggit and bund vp ane quyet Com<g ref="char:EOLhyphen"/>moun welth, that hir welcum<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame and ſcho had cu<g ref="char:cmbAbbrStroke">̄</g>min ſuld haue bene na pleſander to hir nor ſcho gat efter hir delyuerance out of Lochleuin at the Langſyde feild, for God is ȝit the ſame God gif we had ȝit the ſame feruentnes. As to that fair reſſoun far fiſchit afoir the net of the confirmatioun of the Kingis Authoritie and ſouertie neuer to co<g ref="char:cmbAbbrStroke">̄</g>trauene the ſame for procuring hir diuorceme<g ref="char:cmbAbbrStroke">̄</g>t to be Ma<g ref="char:EOLhyphen"/>ryit with the Duke of Norffolk, how the keping of that promeis aggreis with hir aſpyring mynde I leif it to thy awin Iudgement, and gif thow beleifis not that we ſuld haue ane cauld coill to blaw at in ſe<g ref="char:EOLhyphen"/>king the King of France of his promeis and ſouer<g ref="char:EOLhyphen"/>tiſchip, gif ſcho violatit hir promeis in that point, as I am maiſt aſſurit ſcho wald.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Gif I ſuld ſpeik my conſcience, I can na wyſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:25347:11"/> red me of that laberinth, for thair is na keiping of promyſis, ſubſcriptiounis with <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eillis betuix nichtbouris, mekil les betuix Kingis and ſubiectis. Bot I will leif of this and returne to our purpois tuiching the Capitane. Gif the Capitane wer co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſtant he micht eſilie caſt the ballance, bot the Se<g ref="char:EOLhyphen"/>creter and Robert Maluile hes ſa abuſit the gude nature of that man and led him blindlingis fra ane degre of defectioun to ane vther, ſum tyme ding<g ref="char:EOLhyphen"/>ing in his heid the Quenis delyuerance, ſum tyme boiſting of the Duke of Norffolk, now bringing thouſandis and mylȝeounis out of Spanȝe, than bringing in Frenchemen, that he hes miſerabillie rune him ſelf ſa far ouer the heuch, that he can not find the meanes to recouer him ſelf agane.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I will not ſay bot thay haue bene euill Inſtru<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>tis, ȝit euin the verray heich curage and pryde of the ma<g ref="char:cmbAbbrStroke">̄</g>nis awin new ſpirite culd not away with being vnder obedience to ony bot ſic as he pleſit, or ſic as the Secreter micht leid be the noſe, I call it ane new ſpirite in reſpect of that famous name, honour, manheid, fidelitie, Religioun, Magnani<g ref="char:EOLhyphen"/>mitie, and conſtancie, in quhilkis all conductit be his auld ſpirite he was marrowles in Scotla<g ref="char:cmbAbbrStroke">̄</g>d, how the ſpirite that gouernit him quhe<g ref="char:cmbAbbrStroke">̄</g> he reſſaifit yat Caſtel aggreis with this, Iudge ȝe, he is ſa far cha<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>geit that I can ſkantlie perſwade me he is the ſelf man. Quhat ſpirite ſteirit him vp in the beginning
+<pb facs="tcp:25347:11"/> of his defectiou<g ref="char:cmbAbbrStroke">̄</g> be ane feinȝeit hand writ to tak the Secreter furth of thair handis to quhome he was committit? Quhat ſpirite culd haue reuengit ane cuffe geuin to a man of his awin Surname with the ſlauchter of ane Innocent man, and reſſauit in his ſpeciall protectioun the murtheraris of that Nobill Prince his Maiſter, that was during his dayis the bandſtane of mekil quyetnes in yis Realme? Quhat ſpirite wald ſet hir vp in Authoritie agane quhome he him ſelf as cheif Inſtrument brocht doun &amp; ad<g ref="char:EOLhyphen"/>iudgeit worthy of ane thouſa<g ref="char:cmbAbbrStroke">̄</g>d deithis? Quhat ſpi<g ref="char:EOLhyphen"/>rite wald contraueue his awin aith maid voluntarly to his natiue King, quhair he proteſtit afoir God that that hand quhilk ſubſcriuit his Authoritie ſuld be the laſt hand vnarmit in his defence? Quhat ſpi<g ref="char:EOLhyphen"/>rite culd ſuffer ſa mony pietifull cryis of pure ſaulis lamentabillie bewailling thair miſerabill oppreſsi<g ref="char:EOLhyphen"/>oun? Quhat ſpirite culd cry out aganis the Ser<g ref="char:EOLhyphen"/>ua<g ref="char:cmbAbbrStroke">̄</g>d of God for reprouing of impietie? The venge<g ref="char:EOLhyphen"/>ance of God licht vpon thame quhilk of vs twa i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the greiteſt occaſioun of blude ſchedding. My freind Thomas as God hes lettin the warld ſe clei<g ref="char:EOLhyphen"/>aneuch be the ſucces of thingis quhilk of yame twa it is, ſwa I feir the vengeance ſall follow according to his prayer without ſpedie repentance.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Thair be ſum thingis thair quhilk I allow not bot as to the ſlauchter of that ma<g ref="char:cmbAbbrStroke">̄</g> I trow thair com<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neuer thing to him in his lyfetyme mair diſpleſant
+<pb facs="tcp:25347:12"/> howbeit the ſame was done by his knawlege, and he offerit to ſatiſfie the partie and the Kirk, and how extreme Iohne Knox was to him, and how vnreuere<g ref="char:cmbAbbrStroke">̄</g>tly he handillit him is mair nor manifeſt, and I reckin that to be ane greit part of the occa<g ref="char:EOLhyphen"/>ſioun baith of his eſtait and the countreis, for ri<g ref="char:EOLhyphen"/>gorous and extreme handilling will caus men do mony thingis contrair thair awin nature.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ȝe haue ſaid mekill bot to lytill purpois. Think ȝe it to be the office of the ſerua<g ref="char:cmbAbbrStroke">̄</g>dis of God quhe<g ref="char:cmbAbbrStroke">̄</g> notabill Inſtrumentis declynis in oppin impietie, to participat of thair wickitnes outher be ſilence or flattrie, Iohne Knox luikit mair deiply in that mater nor ȝe ar war of, and ſaw na acknawlegeing of the offence done to the Magiſtrate, quhais ſa<g ref="char:EOLhyphen"/>tiſfactioun aucht to preceid the Kirk, bot plane contempt as appeirit weill be his awin cu<g ref="char:cmbAbbrStroke">̄</g>ming in proper perſoun to the hous of Iuſtice at the Re<g ref="char:EOLhyphen"/>gentis elbok, contempteouſly brak vp the ſame and tuik out ane of his ſeruandis apprehendit for the cryme, and ſwa mendit the firſt fault with ane vther worſe. Quhat penitence or ſatiſfactioun outher of King, Kirk, or party culd the<g ref="char:cmbAbbrStroke">̄</g> haue bene gadderit? And that ſeueritie (as ȝe call it) quhair<g ref="char:EOLhyphen"/>with Iohne Knox handillit him ſall accuſe mony Miniſteris and vtheris that in thair hartis dampnis that fact and vtheris thair interpryſis, and outher for feir or than flattrie keipis thame ſelfis ſa indif<g ref="char:EOLhyphen"/>ferent,
+<pb facs="tcp:25347:12"/> that of thair doctrine and prayer thay may mak ane Welſche ma<g ref="char:cmbAbbrStroke">̄</g>nis hois. For gif richteouſnes and trew deilling be on thair ſyde let Miniſteris &amp; all vtheris Iuſtifie, allow, publictly approue and mantene it, gif not, condempne it, cry out aganis it, threitning the plaigues of God and craif thame to be powrit out on thame without ſpedy repenta<g ref="char:cmbAbbrStroke">̄</g>ce, admoniſche all men to fle fra thame as fra ane con<g ref="char:EOLhyphen"/>ſuming peſtilence. Heirin ſtandis the part of the trew bringeris of Chriſtis Euangell, and thow that hes done or ſall do vtherwyſe, and byſſeis thy ſelf mair to pleis men nor him quhais ambaſſage thow beiris, tak thy admonitioun out of the Reuelatioun to be ſpewit out of the mouth of God as nouther het nor cauld. And as ȝe trow yat that ſeueritie was ane greit motiue to the kendling of yis fyre, I trow &amp; vther Miniſteris with als greit ſeueritie had cryit out, and threitnit the plaigues, thair audacitie had not bene ſa greit in atte<g ref="char:cmbAbbrStroke">̄</g>pting of thingis, nor ȝit haif braggit, we haue als mony miniſteris on our ſyde as thay haue on thairis. Conſidder thairfoir that o<g ref="char:EOLhyphen"/>uer greit lenitie in reprouing of ſin geuis me<g ref="char:cmbAbbrStroke">̄</g> auda<g ref="char:EOLhyphen"/>citie and makis thame ſleip ſound in impietie, and ma declynis in lenitie then in ſeueritie.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Ȝe brag mekle of richteouſnes on ȝour ſyde, bot will ȝe find me that impietie with thame quhilk is not in the lyke degre or rather greiter with ȝour ſelfis, and it is ſpokin that ȝour treſſoun aganis the
+<pb facs="tcp:25347:13"/> King and countrie may matche thairis as ȝour pra<g ref="char:EOLhyphen"/>ctiſis with Ingland witneſsis.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I am aſſurit we mantene ane richteous caus ſum tyme Iudgeit richteous be ȝour ſelfis, thocht ȝe now to ȝour perpetuall ſchame wald recent. Bot in deid all that mantene this richteous caus ar nocht preciſe richteous thame ſelfis, bot euin in verrie mony thingis ar out of the way. Alſwa lat men al<g ref="char:EOLhyphen"/>low the generall caus and mantene the richteouſ<g ref="char:EOLhyphen"/>nes of it, and dampne the particular impietie in the particularis. And becaus our laſer will not ſerue to diſcus that heid as ye neceſsitie of the ſame craifis, ȝe ſall haue it heirefter at mair lenth lytill to the contentment of ather ſydes gif thay mend not yair handis. As to our practiſis with Ingland, the warld ſeis quhilk hes bene maiſt treſſonabill, I knaw thay thunder out aganis vs that we are Tratouris to our Countrie, wald ſell vs to be ſlaues to our auld ene<g ref="char:EOLhyphen"/>meis of Ingland, put our King and ſtrenthis in thair handis, bot how impudently thay belie vs, thair <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>win ſpeciall aſsiſtaris can beir record. Accuſit not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Ambaſſadour of France thame at Londoun of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntrew deilling to his Maiſter of thair offer of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elyuerance of the King to the Quene of Ingland, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as not our refuſall of the King plane caus that my <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord Mortoun come hame without expeditioun of <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſute. Quhat culd he haue craifit that he had not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tenit grantand his delyuerance. Quhat flauerie
+<pb facs="tcp:25347:13" rendition="simple:additions"/> ſuld we be exponit vnto vnder the obedience of an Inglis Duke Maryit with our Quene Enemie to Chriſtis Euangell, and Tratour to his awin Princes, and ȝit gang thay about with tuith and naill to ac<g ref="char:EOLhyphen"/>compliſche that fetche, ar thay not eſchamit to ac<g ref="char:EOLhyphen"/>cuſe vs of treſſoun quhilk thame ſelfis practiſis, it is trew we haue ſocht dyueris tymes the Quene of Ingla<g ref="char:cmbAbbrStroke">̄</g>d to put hand to oppres thair tyra<g ref="char:cmbAbbrStroke">̄</g>neis &amp; treſ<g ref="char:EOLhyphen"/>ſonabill crueltie, tending not only to the euerſioun of our King &amp; hir Maieſtie of baith thair Realmes bot alſo of the Euangell of Chriſt profeſsit thairin, quhilk appeiris mair manifeſt nor myſteris be ſpo<g ref="char:EOLhyphen"/>kin of, be thair only confideracie and dependence with coniurit Papiſtis in Ingland, France, Spanȝe, ȝea, ye Pape him ſelf, contributing or promyſing to contribute liberallie to the furthſetting of thair at<g ref="char:EOLhyphen"/>temptis, and ȝit mon we be the Tratouris, for that we will not call bak to our ſchame that quhilk yame ſelfis did with honour, and ſet hir agane ouer the Kirk of God, that hes ſubſcriuit that bludie co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſpiracie aganis the Sanctis of God deuyſit at the counſall of Trent. Bot ſupponing now that lauch<g ref="char:EOLhyphen"/>fullie hir authoritie micht be erectit, ſuld not ſic be appointit thairto in hir abſence, as be wyſdome, foirſicht, Iuſtice, and verteous gouernament culd auance the Kingdome of God, and intertene the quyet eſtait of hir ſubiectis, and preſerue the Re<g ref="char:EOLhyphen"/>alme in peice and tranquillitie quhill outher ſcho
+<pb facs="tcp:25347:14"/> or hir Sone reſſauit it.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Quha doutis?</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Confer with me a lytill then and ſe how the gouernament that aucht to be aggreis with it that is, ane verray wyſe Gouernour at nuttis craking, and ſpeciallie fra twa efter none bak, that be him ſelf his freindis, and predeceſſouris hes practiſit thir fyftie ȝeiris be murther of the blude Royall to conuert the Kingdome to his awin hous, and waittis thow not quhat the heland man ſaid that he wald do with the Sone quhais Father he had ſlane. Bot he that hes ſlane Grandſchir, Gudſchir, the Father and the Vncle, quhat rewlit commoun welth wald he be glaid to leif the Sone? And in how gude cais think ȝe the Sone wer in vnder his mercy. And ſen his practiſis tendis to ſic middis and end, quha doutis bot he wald glaidly be the diſpatche of the Sone be that degre neirar. And he is blynder nor ane Aſſe that ſeis not thair In<g ref="char:EOLhyphen"/>nocent blude with the blude of the ſanctis of god quhome he hes murtherit plaiguit in him ſelf and ſucceſsioun, that of ane fuill is begottin ane neſt of Goikis vnabill to gouerne thame ſelfis mekill les ane Kingdome, and for all this ȝe mon brag of thair gouernament as Fatheris of the Commoun welth.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Howbeit he is not verray wyſe, ȝit he is ane greit man and may do mekill, and for to help his
+<pb facs="tcp:25347:14" rendition="simple:additions"/> wyſdome thay haue ioynit with him Hu<g ref="char:cmbAbbrStroke">̄</g>tly wyſe aneuch, and gif thair be ony ſuſpitioun aganis the King, let him neuer cum in his handis.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ane greit man I grant, and may do mekill be treſſoun, murther, and oppreſsioun. As to his co<g ref="char:EOLhyphen"/>adiutor lyke to him ſelf, his philnomy in deid re<g ref="char:EOLhyphen"/>ſemblis greit wyſdome, and the trik that the Erle Both well and he practiſit at the Kirk of Feild to the Father may be witneſsing gude aneuch of his gude will toward the Sone, find me the way now vnder ſic Gouernouris to keip outher his throt or his keiparis vncuttit, for to think that he can be keipit but danger vnder thair gouernament, is als mekill to think thow can hauld ane Wolf be the eiris but perrell. Ȝit I meruel mekill how this <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtie freindſchip betuix the Duke, Huntly, the Ca<g ref="char:EOLhyphen"/>pitane and the Secreter cu<g ref="char:cmbAbbrStroke">̄</g>mis. I am aſſurit within thir twa ȝeiris thay wer als gude freindis as Pylat and Herod afoir Chriſtis apprehenſioun.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>The thocht of the Commoun weill ſa cit thame vp that thay culd find nane meitar.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Meitar meitar wald ȝe ſay to inuert all and cut the Kingis throt, tuſche I will tell the it is the cheritabill Law that commandis for euill to do gude, becaus the Duke pat the Laird of Grange Gudſchiris heid vpon the port, ſend him ſelf lyke ane ſlaue to the Galayis in France, conducit ane diſperat knaif to murther his Maiſter, and for the
+<pb facs="tcp:25347:15"/> gude ſeruice the auld Erle of Huntly thocht to haue done to the Secreter at the Iornay in the North.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Now ȝe ſcorne me.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Quhy ſwa, ſa God help me I knaw not ane gude qualitie nouther in ye Duke nor Huntly nor ane gude turne that euer ony of thame did to ony of the vther twa that ſuld muſe thame, bot and thow liſt I culd rekin thee infinite diſpleſuris that thay haue wiſchit thame with. Bot I trow the ground be the ſelf ground that ſewit vp the freindſchip betuix Pylat and Herod, for thay haue ſa defylit thame ſelfis with the blude of the King and his Regentis, that thair commoun cair is how to get ane new ſucceſsioun to Regne, leiſt ſumtyme yair bludes be craifit of thame or thair poſteritie, for vtherwyſe I knaw thair is na men in Scotland ly<g ref="char:EOLhyphen"/>kis vtheris worſe nor wald be glaider to ſe vtheris wrakit, gif ony of thame micht do thair turne by vtheris: for the Hammiltounis ſayis gif thay culd anis get the Court, the Secreter, Maiſter Iames Makgill, Robert Maluile, the Perſoun of Fliſk, and ſic fyne Court caſteris ſuld neuer walter ane Court to thame.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I can thinke that weill thay will neuer credite thame.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Na, na, ane ſuirer way diſpatche thame atanis.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Bot I tell ȝow thay luik for na les at thair han<g ref="char:EOLhyphen"/>dis,
+<pb facs="tcp:25347:15" rendition="simple:additions"/> and ſum of thame thinkis to pay thame hame agane, for I knaw that ſeiking ſum gentill men to ryn thair courſe that was vnder vnkyndnes with the Hammiltounis, thay willit thame to fray na<g ref="char:EOLunhyphen"/>thing for thame, for we ſall ſchaik thame of ſaid yai how ſone we haue done our turne be thame, ſwa that the Secreteris plane fetcheis the Duke of Norffolkis, mynding the wrakment <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith of ye King and the Hammiltounis. And howbeit he ſeme to mak mekil ado for the Quenis authoritie, wer ſcho at hame vncled with the Duke his craig wald be fleitar for the widdie, nor his ſoillis for ane naill in the flure, notwithſtanding that ſcho hes promyſit gif he be honeſt in tyme cu<g ref="char:cmbAbbrStroke">̄</g>ming <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ganis ſalbe forȝet.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Bot knaw ȝe gif he can be perſwadit to credite that promeis, he is becum better ſcholit in his Maiſter Macheauillis principallis, qui peccare no<g ref="char:cmbAbbrStroke">̄</g> pardone, ſwa gif he can not forgif he can not cre<g ref="char:EOLhyphen"/>dite.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I am aſſurit he will ſeik the laſt refuge for his ſtanding, for gif he ſuld wrak, he wald all ye warld ſuld wrak with him.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Thair appeiris na les, for his only ſtanding hes brocht Scotland to the miſerie ȝe ſe, and quhat it hes done in Ingland ma aig es nor ane will reme<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ber. Bot curſit and miſerabill is that ſtanding that bringis with it the diſtructioun of ſa mony, and
+<pb facs="tcp:25347:16"/> that excellent wit that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od hes indewit him with to be occupyit in the aduancing of the geuaris gloir, and comfort and commoditie of his natiue countrie and brother thus abuſit direct contrair God, ſall confound and bring him to miſerabill diſtructioun with all thame that directly fechtis aganis God, employ and all thair ſenſes and heich wittis to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther endis nor God hes geuin yame for. And thow ô Grange, Grange (that thus ſchame<g ref="char:EOLhyphen"/>fully hes ſufferit thy ſelf to be abuſit with that wickit Ganȝelon, that for his curſt ſtanding hes mixt heuin and eirth) afoir honorabill and inno<g ref="char:EOLhyphen"/>cent, bot now execrabill baith to God and man, in that thow hes participat with him, &amp; that god<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>actioun ſall taiſt of the plaigues dew to thame for thair deteſtabill impietie, Repent, repent, I ſay in tyme, and call to God to oppin thy eyis, that thow may ſe thy awin defectioun, and how greit ane Inſtrument of troubill thow art, for that rottin reid thow lenis to ſalbe na ſuirer lening ſtok now nor afoir. It is not the heicht of craiges thocht thay reiche to the ſkyis, nor the feirfull thundering of Cannounis, nor the confideracie with all the Kingis on ye eirth yat ſall defend the fra the plaigues of God alreddy at thy duires, ex<g ref="char:EOLhyphen"/>cept thow ſpedelie repent.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I meruell that ȝe ſpeik thir thingis of thay men thay haue bene ȝour auld acquentance, to quho<g ref="char:cmbAbbrStroke">̄</g>e
+<pb facs="tcp:25347:16" rendition="simple:additions"/> ȝe haue bene mony wayis addettit ſpecially to y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Secreter quhome ȝe haue ſene ane profitabill In<g ref="char:EOLunhyphen"/>ſtrument in honeſt cauſis.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Let na man think of me that my freindſchip co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tinewis langer nor honeſt and faithful deilling be baniſchit. Bot allace ſen that blind conſait that men reſtis on (he was ane gude Inſtrument) had abuſit and brocht be apperance na ma bot him ſelf to diſtructioun, for he hes houndit and preſentlie houndis the Nobill men in Scotland lyke als mo<g ref="char:EOLhyphen"/>ny tykis furth of a leiſche, and at the leiſt nod of his heid thay mon returne agane, and in ye meane tyme him ſelf is ay in a ſure garyſoun, ȝit tell me of his honeſt Interpryſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>t brocht not <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the aduancement of his <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> dignitie. Quh<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oundit out the King, Mortoun, Ruthuen, and Lyndeſay to ſtik Dauie, was it for ony vther caus than that Dauie tuik his ſchaddow, fiſchit in his watteris, and the brybis that he wont to get for making cruikit materis gang euin, was packit vp in his Cofferis. Was not the diſtructioun that is cu<g ref="char:cmbAbbrStroke">̄</g>min on the Erle Both well brocht about be him onlie, for that he feirit his lyfe of him and myntit to retreit his conqueſt, was it for the verray hait<g ref="char:EOLhyphen"/>rent that he bure to the Quenis wickitnes, that he wald haue had Lyndeſay quhen ſcho was tane, wirrie hir in hir awin hair, and ſay ſcho had ha<g ref="char:cmbAbbrStroke">̄</g>git hir ſelf, gif it was the mendis ſcho maid for auld
+<pb facs="tcp:25347:17"/> faultis is Impretenſis this day witneſsis. Angous, Mortoun, Lyndeſay, be leirnit be the fall of ȝour Nichtbouris, for he lykis not ane companȝ<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> mekill les ane Superiour Nichtbour.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I repent I ſuld not haue ane better ground for yair defence quho<g ref="char:cmbAbbrStroke">̄</g>e I lufe, for thay haue baniſchit from thair ſocietie the trew honeſt verteous and godly men, and tane to thair league follow is ſic a pack as is not out of the Deuillis armes, I am aſſu<g ref="char:EOLhyphen"/>rit and the ſecreitis of yair hartis wer rypit, it ſuld be fund thay repent thair courſe thame ſelfis.</p>
+               <p>Thairfoir I ȝeild, leuing thame to thair own wyſ<g ref="char:EOLhyphen"/>dome ſen thay will credite na vtheris.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> grant thay m<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>nt of thair cours, not <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>kill for that it <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had ane euill ſucces<g ref="char:punc">▪</g> and lyke to haue worſe, as for that it hes bene vnno<g ref="char:EOLhyphen"/>neſt in the ſelf in the ſicht of the warld, and diſ<g ref="char:EOLhyphen"/>pleſant to God, and than I dout not bot God ſall call thame agane to thair former feruencie. V<g ref="char:EOLhyphen"/>therwyſe I feir thair rewaird ſalbe confuſioun heir and hyne. In the meane tyme let vs pray God outher to lichtin thair eyis to repentance, or ellis to dely<g ref="char:EOLhyphen"/>uer our troublit brethren fra thair Tyrannie.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Amen.</p>
+            </sp>
+            <trailer>¶FINIS.</trailer>
+            <pb facs="tcp:25347:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
